@@ -1,0 +1,103 @@
+body {
+    background-color: black;
+    color: white;
+}
+ 
+
+.page-link{
+    color: #0000ff;
+    padding: 5px;
+}
+
+.page-link:hover{
+    color: gold;
+}
+
+.page-navi {
+    color: green;
+    background-color: white;
+    border-color:cyan;
+    position: fixed;
+    bottom: 10px;
+    width: 300px;
+    height: 200px;
+
+}
+
+div a {
+    background-color: navajowhite;
+}
+
+.indiv-navi{
+    text-align: center;
+}
+
+#paula {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ 
+.joe {
+    color: red;
+    border-width: 9px;
+    border: solid;
+    border-color: purple;
+    background-color: pink;
+    border-radius: 90px;
+}
+ 
+.joemama {
+    color:blue;
+}
+ 
+.animal-text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: magenta;
+}
+ 
+div-text {
+    font-family: fantasy;
+    color: white;
+}
+ 
+.s4 {
+    color:yellow;
+    background-color: #008000;
+    border-width: 4px;
+    font-family:'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ 
+}
+ 
+.s5 {
+    color: orange;
+    background-color: #808080;
+}
+
+.s4>.s5 {
+    background-color: turquoise;
+}
+ 
+.s6 {
+    color: yellow;
+    background-color: #00FFFF;
+}
+ 
+.s7 {
+    color: green;
+    background-color: #FF00FF;
+}
+ 
+.s8 {
+    color: blue;
+    background-color: #FF00FF;
+}
+ 
+.s9 {
+    color: indigo;
+    background-color: #FFFFFF;
+}
+ 
+.s10 {
+    color: violet;
+    background-color: #FFFFFF;
+}
+
