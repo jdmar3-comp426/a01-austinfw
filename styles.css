@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+    color: white;
+}
+ 
+
+.page-link{
+    color: #0000ff;
+    padding: 5px;
+}
+
+.page-link:hover{
+    color: gold;
+}
+
+.page-navi {
+    color: green;
+    background-color: white;
+    border-color:white;
+    position: fixed;
+    bottom: 10px;
+
+}
+
+.indiv-navi{
+    text-align: center;
+}
+
+#paula {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ 
+.joe {
+    color: red;
+    border-width: 9;
+    border: solid;
+    border-color: purple;
+    background-color: pink;
+    border-radius: 90;
+}
+ 
+.joemama {
+    color:blue;
+}
+ 
+.animal-text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: magenta;
+}
+ 
+div-text {
+    font-family: fantasy;
+    color: white;
+}
+ 
+.s4 {
+    color:yellow;
+    background-color: #008000;
+    border-width: 4px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ 
+}
+ 
+.s5 {
+    color: orange;
+    background-color: #808080;
+}
+ 
+.s6 {
+    color: yellow;
+    background-color: #00FFFF;
+}
+ 
+.s7 {
+    color: green;
+    background-color: #FF00FF;
+}
+ 
+.s8 {
+    color: blue;
+    background-color: #FF00FF;
+}
+ 
+.s9 {
+    color: indigo;
+    background-color: #FFFFFF;
+}
+ 
+.s10 {
+    color: violet;
+    background-color: #FFFFFF;
+}
+
