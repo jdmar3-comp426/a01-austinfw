@@ -16,7 +16,7 @@ body {
 .page-navi {
     color: green;
     background-color: white;
-    border-color:white;
+    border-color:cyan;
     position: fixed;
     bottom: 10px;
 
@@ -32,11 +32,11 @@ body {
  
 .joe {
     color: red;
-    border-width: 9;
+    border-width: 9px;
     border: solid;
     border-color: purple;
     background-color: pink;
-    border-radius: 90;
+    border-radius: 90px;
 }
  
 .joemama {
