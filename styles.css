@@ -19,6 +19,8 @@ body {
     border-color:cyan;
     position: fixed;
     bottom: 10px;
+    width: 300px;
+    height: 200px;
 
 }
 
@@ -64,6 +66,10 @@ div-text {
 .s5 {
     color: orange;
     background-color: #808080;
+}
+
+.s4>.s5 {
+    background-color: turquoise;
 }
  
 .s6 {
