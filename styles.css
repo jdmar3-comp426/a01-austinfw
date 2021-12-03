@@ -24,6 +24,10 @@ body {
 
 }
 
+div a {
+    background-color: navajowhite;
+}
+
 .indiv-navi{
     text-align: center;
 }
